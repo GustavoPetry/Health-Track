@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie-edge">
+    <link rel="stylesheet" href="../css/all.css">
+    <link rel="stylesheet" href="../plugins/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="../plugins/fontawesome/css/all.min.css">
+    <title>Health Track</title>
+</head>
+
+<body>
+    <div class="flex-dashboard">
+        <sidebar id="sidebar">
+            <div class="sidebar-title">
+                <img src="../images/logo_health_track_espandido_cinza.png" alt="Logo Health Track">
+            </div>
+            <div class="menu">
+                <ul>
+                    <li>
+                        <i class="fas fa-chart-line"></i>
+                        <a href="dashboard.html"> DASHBOARD</a>
+                    </li>
+                    <li>
+                        <i class="fas fa-user-circle"></i>
+                        <a href="perfil.html"> PERFIL</a>
+                    </li>
+                    <li class="selected">
+                        <i class="fas fa-weight-hanging"></i>
+                        <a href="gerenciarPeso.html"> PESO E ALTURA</a>
+                    </li>
+                    <li>
+                        <i class="fas fa-heartbeat"></i>
+                        <a href="gerenciarPressao.html"> PRESSÃO ARTERIAL</a>
+                    </li>
+                    <li>
+                        <i class="fas fa-running"></i>
+                        <a href="gerenciarAtividades.html"> ATIVIDADES FÍSICAS</a>
+                    </li>
+                    <li>
+                        <i class="fas fa-calculator"></i>
+                        <a href="calcularIMC.html"> CALCULAR IMC</a>
+                    </li>
+                    <li>
+                        <i class="fas fa-utensils"></i>
+                        <a href="gerenciarAlimentos.html"> ALIMENTOS</a>
+                    </li>
+                    <li class="sidebar_logout">
+                        <i class="fas fa-sign-out-alt"></i>
+                        <a href="../index.html "> LOGOUT</a>
+                    </li>
+
+                </ul>
+            </div>
+
+        </sidebar>
+        <main id="mainContent">
+            <header>
+                <i id="iconMenu " onclick="responsiveSidebar() " class="fas fa-bars "> </i>
+                <a href="../index.html"><i class="fas fa-sign-out-alt"></i> LOGOUT</a>
+            </header>
+            <div class="main-content">
+                <div class="panel-row">
+                    <button class="panel panel-50" a-view="cadastrarPeso" onclick="fetchContent(this)" a-folder="peso">
+                        <i class="fas fa-plus"></i>
+                        Cadastrar peso e altura
+                    </button>
+                    <button class="panel panel-50" a-view="visualizarPeso" onclick="fetchContent(this)" a-folder="peso">
+                        <i class="fas fa-eye"></i> 
+                        Visualizar peso e altura
+                    </button>
+                </div>
+                <div class="content" id="ajax-content"></div>
+            </div>
+        </main>
+    </div>
+
+    <script src="../plugins/bootstrap/js/bootstrap.min.js"></script>
+    <script src="../plugins/fontawesome/js/all.min.js"></script>
+    <script src="../js/ajax.js"></script>
+    <script src="../js/menu.js "></script>
+</body>
+
+</html>
