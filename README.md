@@ -2,4 +2,4 @@
 The Health Track aims to record weight, height, blood pressure, food intake, periods of physical activity, among others.
 
 
-[Inicial Health Track](/relative/path/to/Inicial Health Track.jpg?raw=true)
+[Inicial Health Track](https://github.com/GustavoPetry/Health-Track/blob/master/Inicial%20Health%20Track.jpg?raw=true)
