@@ -1,7 +1,6 @@
 ![GitHub_Health_Track](https://github.com/GustavoPetry/Health-Track/blob/master/GitHub_Health_Track.png)
 <br />
 <br />
-<br />
 # Health-Track
 O Health Track tem o objetivo de ajudar o usuário a acompanhar sua saúde de uma maneira simples e rápida. Tendo um acompanhamento diário desde os alimentos ingeridos até atividades físicas praticadas. Com gráficos e dashboards para facilitar a visualização, sem dúvidas o Health Track vai ajudar você a ter uma evolução de uma forma simples e legal.
 
