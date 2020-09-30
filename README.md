@@ -8,6 +8,16 @@ O Health Track tem o objetivo de ajudar o usuário a acompanhar sua saúde de um
 <br />
 ![Desktop_HealthTrack_Desktop](https://github.com/GustavoPetry/Health-Track/blob/master/Desktop_HealthTrack_Desktop.png)
 <br />
+## Administre de forma ampla no seu desktop 
+
+O Health Track funciona de maneira responsiva. Você pode usá-lo no seu desktop e em seu celular. Administre seus dados e acompanhe sua evolução em tempo real.
+
+📊 **Dashboards**
+📏 **Peso e Altura**
+🩺 **Pressão Arterial**
+🏃‍♂️ **Atividades Físicas**
+🍏 **Alimentação**
+🔢 **IMC**
 <br />
 <br />
 ![Desktop_HealthTrack_Mobile](https://github.com/GustavoPetry/Health-Track/blob/master/Desktop_HealthTrack_Mobile.png)
