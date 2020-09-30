@@ -23,9 +23,7 @@ O Health Track funciona de maneira responsiva. Você pode usá-lo no seu desktop
 ![Desktop_HealthTrack_Mobile](https://github.com/GustavoPetry/Health-Track/blob/master/Desktop_HealthTrack_Mobile.png)
 <br />
 <br />
-<br />
 ![Desktop_HealthTrack_Ending](https://github.com/GustavoPetry/Health-Track/blob/master/Desktop_HealthTrack_Ending.png)
-<br />
 <br />
 <br />
 ### Vídeo demonstrativo do projeto:
