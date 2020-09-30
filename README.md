@@ -11,10 +11,6 @@ O Health Track tem o objetivo de ajudar o usuário a acompanhar sua saúde de um
 <br />
 <br />
 ![Mobile Health Track](https://github.com/GustavoPetry/Health-Track/blob/master/Mobile%20Health%20Track.png)
-
-![Login Health Track](https://github.com/GustavoPetry/Health-Track/blob/master/Login%20Health%20Track.png)
-
-![Inicial Health Track](https://github.com/GustavoPetry/Health-Track/blob/master/Inicial%20Health%20Track.png)
 <br />
 <br />
 <br />
