@@ -22,6 +22,11 @@ O Health Track funciona de maneira responsiva. Você pode usá-lo no seu desktop
 <br />
 ![Desktop_HealthTrack_Mobile](https://github.com/GustavoPetry/Health-Track/blob/master/Desktop_HealthTrack_Mobile.png)
 <br />
+
+## A todo tempo e em qualquer lugar
+
+Seja praticando um esporte ou realizando uma refeição, o Health Track funciona perfeitamente no seu celular. Então, sem desculpas para calibrar seus dados em qualquer lugar. Leve-o a onde você for!
+<br />
 <br />
 ![Desktop_HealthTrack_Ending](https://github.com/GustavoPetry/Health-Track/blob/master/Desktop_HealthTrack_Ending.png)
 <br />
