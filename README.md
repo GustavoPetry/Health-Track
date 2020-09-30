@@ -1,4 +1,4 @@
-![GitHub_Health_Track](https://github.com/GustavoPetry/Health-Track/blob/master/GitHub_Health_Track.png)
+![HealthTrack_Cover](https://github.com/GustavoPetry/Health-Track/blob/master/HealthTrack_Cover.png)
 <br />
 <br />
 # 💚 Health-Track
@@ -6,11 +6,15 @@ O Health Track tem o objetivo de ajudar o usuário a acompanhar sua saúde de um
 <br />
 <br />
 <br />
-![Desktop Health Track](https://github.com/GustavoPetry/Health-Track/blob/master/Desktop%20Health%20Track.png)
+![Desktop_HealthTrack_Desktop](https://github.com/GustavoPetry/Health-Track/blob/master/Desktop_HealthTrack_Desktop.png)
 <br />
 <br />
 <br />
-![Mobile Health Track](https://github.com/GustavoPetry/Health-Track/blob/master/Mobile%20Health%20Track.png)
+![Desktop_HealthTrack_Mobile](https://github.com/GustavoPetry/Health-Track/blob/master/Desktop_HealthTrack_Mobile.png)
+<br />
+<br />
+<br />
+![Desktop_HealthTrack_Ending](https://github.com/GustavoPetry/Health-Track/blob/master/Desktop_HealthTrack_Ending.png)
 <br />
 <br />
 <br />
