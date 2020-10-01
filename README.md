@@ -3,8 +3,17 @@
 <br />
 ## 💚 Health-Track
 O Health Track tem o objetivo de ajudar o usuário a acompanhar sua saúde de uma maneira simples e rápida. Tendo um acompanhamento diário desde os alimentos ingeridos até atividades físicas praticadas. Com gráficos e dashboards para facilitar a visualização, sem dúvidas o Health Track vai ajudar você a ter uma evolução de uma forma simples e legal.
-<br />
-<br />
+
+**💻 Linguagens usadas para a criação:**
+
+- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)<br />
+- ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)<br />
+- ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)<br />
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)<br />
+- **IBM Watson**<br />
+
+**📊 Ajude o repositório do SAM a ter mais visualizações**<br /><br />
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=GustavoPetry)
 <br />
 ![Desktop_HealthTrack_Desktop](https://github.com/GustavoPetry/Health-Track/blob/master/Desktop_HealthTrack_Desktop.png)
 <br />
