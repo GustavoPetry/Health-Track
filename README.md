@@ -11,8 +11,8 @@ O Health Track tem o objetivo de ajudar o usuário a acompanhar sua saúde de um
 - ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)<br />
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)<br />
 
-**📊 Ajude o repositório do SAM a ter mais visualizações**<br /><br />
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=GustavoPetry)
+**📊 Ajude o repositório do Health Track a ter mais visualizações**<br /><br />
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Health-Track)
 <br />
 <br />
 ![Desktop_HealthTrack_Desktop](https://github.com/GustavoPetry/Health-Track/blob/master/Desktop_HealthTrack_Desktop.png)
